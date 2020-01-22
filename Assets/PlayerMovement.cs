@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 2.0f;
-    public float jumpforce = 2.0f;
+    public float jumpspeed = 2.0f;
 
     // Start is called before the first frame update
     void Start()
